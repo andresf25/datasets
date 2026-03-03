@@ -1,0 +1,31 @@
+fecha;cliente;producto;cantidad;precio_unitario;sucursal;canal;id_pedido
+5/01/2026;Juan Perez;Laptop;1;3500,5;Medellin;web;1001
+5/01/2026;Maria Gomez;Mouse;2;45;Bogota;tienda;1002
+6/01/2026;;Teclado;1;120;Medellin;whatsapp;1003
+7/01/2026;Carlos Ruiz;Monitor;;900;Cali;web;1004
+7/01/2026;Laura Diaz;Laptop;1;3500,5;Medellin;web;1001
+8/01/2026; Ana Torres ;Mouse;3;45;Bogota;tienda;1005
+2026-13-08;Pedro Ramirez;Impresora;1;850;Cali;web;1006
+8/01/2026;Sofia Lopez;Laptop;2;3500,5;Medellin;web;1007
+9/01/2026;Mario Castro;Mouse;5;45;Barranquilla;whatsapp;1008
+10/01/2026;;Laptop;1;3500,5;Medellin;tienda;1009
+10/01/2026;Camila Ortiz;Monitor;2;900;Cali;web;1010
+11/01/2026;Juan Perez;Teclado;2;120;Medellin;web;1011
+12/01/2026;Carlos Ruiz;Mouse;abc;45;Bogota;tienda;1012
+12/01/2026;Laura Diaz;Laptop;1;3500.50;Medellin;web;1013
+13/01/2026;Pedro Ramirez;Monitor;1;-900;Cali;web;1014
+13/01/2026;Maria Gomez;Teclado;2;120;Bogota;tienda;1015
+14/01/2026;Sofia Lopez;Laptop;1;3500,5;Medellin;whatsapp;1016
+15/01/2026;Mario Castro;Mouse;2;45;Barranquilla;web;1017
+15/01/2026; Ana Torres ;Laptop;1;3500,5;Medellin;tienda;1018
+16/01/2026;Camila Ortiz;Impresora;1;850;Cali;web;1019
+17/01/2026;Juan Perez;Laptop;2;3500,5;Medellin;web;1020
+18/01/2026;;Monitor;1;900;Bogota;tienda;1021
+18/01/2026;Carlos Ruiz;Teclado;1;120;Cali;whatsapp;1022
+19/01/2026;Laura Diaz;Mouse;3;45;Medellin;web;1023
+20/01/2026;Maria Gomez;Laptop;1;0;Bogota;tienda;1024
+21/01/2026;Sofia Lopez;Monitor;2;900;Medellin;web;1025
+21/01/2026;Mario Castro;Mouse;1;45;Barranquilla;whatsapp;1026
+22/01/2026;Pedro Ramirez;Impresora;2;850;Cali;web;1027
+23/01/2026; Ana Torres ;Teclado;1;120;Medellin;tienda;1028
+24/01/2026;Camila Ortiz;Laptop;1;3500,5;Cali;web;1029
